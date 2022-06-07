@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJAGABAN
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Front end wed design / HTML, CSS and JavaScript
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on real projects
 - 📫 How to reach me techfrank360@gmail.com
 
 <!---
