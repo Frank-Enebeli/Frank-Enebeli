@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @DJAGABAN
+- 👋 Hi, I’m @Frank-Enebeli
 - 👀 I’m interested in Front end wed design / HTML, CSS and JavaScript
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on real projects
-- 📫 How to reach me techfrank360@gmail.com
+- 📫 How to reach me frankenebeli@ymail.com
+- i am a certified business analyst as well
 
 <!---
 DJAGABAN/DJAGABAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
