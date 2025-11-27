@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end wed design / HTML, CSS and JavaScript
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on real projects
-- 📫 How to reach me frankenebeli@ymail.com
+- 📫 How to reach me enebelifrank@gmail.com
 - i am a certified business analyst as well
 
 <!---
